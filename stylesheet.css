@@ -46,7 +46,8 @@ table {
   border-spacing: 0;
 }
 
-#title {
+#h1 {
+  font-size: 200%;
   text-align: center;
   padding: 20%;
 }
