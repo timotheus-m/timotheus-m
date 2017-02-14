@@ -1,3 +1,3 @@
 # timotheus-m
 
-#personal webiste
+personal website
