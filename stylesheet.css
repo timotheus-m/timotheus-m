@@ -15,15 +15,15 @@
 body {
     font-family: 'Montserrat', Helvetica, sans-serif;
     font-weight: 400;
-    font-size: ;
-    line-height: ;
+    font-size:
+    line-height:
     color: #000;
-    background-color: ;
+    background-color:
 }
 
 strong,
 .text-strong {
-  font-weight: 500; // Corresponds to the Bold 700 style
+  font-weight: 500;
 }
 
 a {
