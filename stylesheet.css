@@ -21,6 +21,11 @@ body {
     background-color: ;
 }
 
+strong,
+.text-strong {
+  font-weight: 500; // Corresponds to the Bold 700 style
+}
+
 a {
   color: #000;
 
@@ -35,4 +40,15 @@ a:hover {
 
 #accordion {
   text-align: center;
+}
+
+.card {
+  border: none;
+}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(253, 253, 255, 0);
+  border-bottom: 0px  rgba(253, 253, 255, 0);
 }
