@@ -2,10 +2,37 @@
 
 
 #title {
-  font-family: Montserrat, Helvetica, sans-serif;
+  font-family: "Montserrat", Helvetica, sans-serif;
   font-weight: 500;
-  font-size: 300%;
+  font-size: 50px;
   font-style: normal;
   text-align: center;
-  padding-top: 20%;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+
+body {
+    font-family: "Montserrat", Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: ;
+    line-height: ;
+    color: #000;
+    background-color: ;
+}
+
+a {
+  color: #000;
+
+}
+
+a:hover {
+  color: #000;
+  font-weight: 500;
+  text-decoration: none;
+
+}
+
+#accordion {
+  text-align: center;
 }
